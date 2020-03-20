@@ -1,0 +1,20 @@
+{
+    "Patient Name": "John Doe",
+    "Patient ID": "P-00-00000",
+    "Test": "COVID-19 RT-PCR Diagnostic Assay",
+    "Report Date": "mm/dd/yyyy",
+    "Source Patient ID": "#ID 0000",
+    "D.O.B.": "mm/dd/yyyy",
+    "Gender": "Male",
+    "Specimen ID": "MI-00-00000",
+    "Specimen Type": "Nasopharyngeal Swab",
+    "Recieved Date": "mm/dd/yyyy",
+    "Recieved Time": "hh:mm:ss",
+    "Physician Name": "Dr. Smith",
+    "Affiliation": "Double Helix Hospital",
+    "Email": "Physician@email.com",
+    "Phone": "000-000-0000",
+    "Collection Date": "mm/dd/yyyy",
+    "Collection Time": "hh:mm:ss",
+    "Result": "Not Detected"
+}
